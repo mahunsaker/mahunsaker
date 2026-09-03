@@ -1,37 +1,61 @@
-essmhealthstatus
-<img width="1187" height="947" alt="Screenshot 2026-09-03 064050" src="https://github.com/user-attachments/assets/a50439a9-abc7-4f44-9c46-f816712e6d8c" />
+# Mark Hunsaker
 
+## IT Support | Systems Administration | IT Operations
 
+IT professional with more than 33 years of experience supporting users, systems, networks, and business technology. My background includes technical support, systems administration, troubleshooting, hardware and software deployment, documentation, and IT operations.
 
+I maintain the **ESSM HomeLab**, a multi-server environment used to strengthen and demonstrate practical skills with Windows Server, Linux, virtualization, networking, Docker, storage, automation, and technical documentation.
 
+## Technical Skills
 
+- Windows 10/11 and Windows Server
+- Linux Mint, Ubuntu Server, Debian, and Proxmox VE
+- Active Directory, DNS, user accounts, and permissions
+- Desktop, laptop, printer, and peripheral support
+- TCP/IP networking and connectivity troubleshooting
+- Virtual machines and virtualization infrastructure
+- Docker and self-hosted application management
+- SSH and remote systems administration
+- NFS and Samba file sharing
+- Bash and PowerShell automation
+- Technical documentation and operational procedures
+- Hardware installation, upgrades, and troubleshooting
 
+## Featured Portfolio
 
+### [ESSM IT Operations Portfolio](https://github.com/mahunsaker/essm-it-operations-portfolio)
 
+This portfolio documents the design, administration, automation, and troubleshooting of my ESSM HomeLab, including:
 
+- Three-node Proxmox virtualization environment
+- Windows Server Active Directory and DNS
+- Linux server administration
+- Docker-hosted business and infrastructure applications
+- Centralized NFS and Samba storage
+- System-health and service-monitoring automation
+- SSH-based remote administration
+- Troubleshooting case studies and operational playbooks
 
+## Current Projects
 
+- Expanding automated infrastructure-health reporting
+- Documenting repeatable troubleshooting procedures
+- Improving Linux and Windows administration automation
+- Building additional virtual machines and services
+- Developing portfolio-ready IT operations case studies
 
+## Certifications and Education
 
+- Associate of Science in Computer Information Systems
+- Microsoft Certified Professional
+- CompTIA A+, Network+, and Security+ training and prior certifications
+- Ongoing hands-on professional development through the ESSM HomeLab
 
+## Professional Focus
 
+I am pursuing opportunities in IT support, desktop support, service desk, systems administration, application support, IT operations, and network support.
 
+## Contact
 
-
-
-## Hi there 👋
-
-<!--
-**mahunsaker/mahunsaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- GitHub: [github.com/mahunsaker](https://github.com/mahunsaker)
+- Email: mahunsaker@gmail.com
