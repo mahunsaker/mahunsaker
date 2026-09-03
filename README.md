@@ -1,4 +1,5 @@
 essmhealthstatus
+<img width="1187" height="947" alt="Screenshot 2026-09-03 064050" src="https://github.com/user-attachments/assets/a50439a9-abc7-4f44-9c46-f816712e6d8c" />
 
 
 
