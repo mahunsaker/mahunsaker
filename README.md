@@ -2,7 +2,7 @@
 
 ## IT Support | Systems Administration | IT Operations
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a55f02ef-8969-47c3-8d85-a2fa65d95876" />
+<img width="1536" height="1024" alt="ESSM HomeLab IT operations workspace" src="https://github.com/user-attachments/assets/a55f02ef-8969-47c3-8d85-a2fa65d95876" />
 
 
 IT professional with more than 33 years of experience supporting users, systems, networks, and business technology. My background includes technical support, systems administration, troubleshooting, hardware and software deployment, documentation, and IT operations.
